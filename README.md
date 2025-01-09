@@ -4,3 +4,4 @@
 
 #Each chapter's exercises are stored in a separate file within the directory, and tracked with git
 
+# LSPythonBasicsBook
